@@ -1,0 +1,7 @@
+{
+  "name": "PalabraDia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
